@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66392ecd-4cdf-4e57-aeb2-7273da023fa6" name="Default Changelist" comment="Create Basic Handlers">
+      <change afterPath="$PROJECT_DIR$/cors/middleware.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product/product.data.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product/product.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product/product.service.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
@@ -49,6 +53,11 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/product" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="go build github.com/santitee/webservices" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
