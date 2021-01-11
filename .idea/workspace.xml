@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66392ecd-4cdf-4e57-aeb2-7273da023fa6" name="Default Changelist" comment="Create Basic Handlers">
-      <change afterPath="$PROJECT_DIR$/database/database.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product/product.data.go" beforeDir="false" afterPath="$PROJECT_DIR$/product/product.data.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product/product.service.go" beforeDir="false" afterPath="$PROJECT_DIR$/product/product.service.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
