@@ -10,7 +10,7 @@ import (
 )
 
 func getProduct(productID int) (*Product, error) {
-	ctx, cancel := context.WithTimeout(context.Background(), 3*time.Second)
+	ctx, cancel := context.WithTimeout(context.Background(), 15*time.Second)
 	defer cancel()
 	row := database.DbConn.QueryRowContext(ctx, `SELECT 
 	productId, 
